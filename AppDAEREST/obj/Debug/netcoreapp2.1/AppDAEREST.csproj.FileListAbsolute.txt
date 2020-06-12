@@ -1,0 +1,206 @@
+C:\DAM\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.deps.json
+C:\DAM\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.json
+C:\DAM\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.dev.json
+C:\DAM\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.dll
+C:\DAM\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.pdb
+C:\DAM\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.dll
+C:\DAM\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csprojAssemblyReference.cache
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csproj.CoreCompileInputs.cache
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cache
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfoInputs.cache
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfo.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.input.cache
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.output.cache
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorCoreGenerate.cache
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cache
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cs
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.dll
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.pdb
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csproj.CopyComplete
+C:\DAM\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Index\Index.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.deps.json
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.json
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.dev.json
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.dll
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.pdb
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.dll
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csprojAssemblyReference.cache
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csproj.CoreCompileInputs.cache
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cache
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfoInputs.cache
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfo.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.input.cache
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.output.cache
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorCoreGenerate.cache
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Index\Index.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cache
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cs
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.dll
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.pdb
+C:\Users\miria\dae\Netcore\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csproj.CopyComplete
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\appsettings.json
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.deps.json
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.json
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.dev.json
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.dll
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.pdb
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.dll
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csprojAssemblyReference.cache
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cache
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfoInputs.cache
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfo.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.input.cache
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.output.cache
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorCoreGenerate.cache
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Index\Index.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cache
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cs
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.dll
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.pdb
+C:\DAE\Proyecto\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csproj.CopyComplete
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.deps.json
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.json
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.dev.json
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.dll
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.pdb
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.dll
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csprojAssemblyReference.cache
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csproj.CoreCompileInputs.cache
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cache
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfoInputs.cache
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfo.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.input.cache
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.output.cache
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorCoreGenerate.cache
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Index\Index.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cache
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cs
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.dll
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.pdb
+C:\Users\miria\dae\Proyecto Final\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csproj.CopyComplete
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.deps.json
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.json
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.dev.json
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.dll
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.pdb
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.dll
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csprojAssemblyReference.cache
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cache
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfo.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.input.cache
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.output.cache
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorCoreGenerate.cache
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Index\Index.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cache
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cs
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.dll
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.pdb
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.genruntimeconfig.cache
+C:\Users\artur\Desktop\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csproj.CopyComplete
+E:\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\appsettings.json
+E:\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.deps.json
+E:\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.json
+E:\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.runtimeconfig.dev.json
+E:\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.dll
+E:\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.pdb
+E:\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.dll
+E:\AppDAEREST\AppDAEREST\bin\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csprojAssemblyReference.cache
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cache
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorAssemblyInfo.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfoInputs.cache
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.AssemblyInfo.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.input.cache
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.TagHelpers.output.cache
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorCoreGenerate.cache
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Index\Index.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cache
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.RazorTargetAssemblyInfo.cs
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.Views.pdb
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.dll
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.pdb
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.genruntimeconfig.cache
+E:\AppDAEREST\AppDAEREST\obj\Debug\netcoreapp2.1\AppDAEREST.csproj.CopyComplete
